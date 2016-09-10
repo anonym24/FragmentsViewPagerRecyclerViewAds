@@ -1,0 +1,21 @@
+09-10 10:40:00.130 17752-17752/com.google.fragmentsviewpagerrecyclerviewads I/Choreographer: Skipped 32 frames!  The application may be doing too much work on its main thread.
+09-10 10:40:00.210 17752-17752/com.google.fragmentsviewpagerrecyclerviewads D/DynamitePackage: Instantiating com.google.android.gms.ads.ChimeraAdManagerCreatorImpl
+09-10 10:40:00.210 17752-17752/com.google.fragmentsviewpagerrecyclerviewads I/Ads: Starting ad request.
+09-10 10:40:00.500 17752-17752/com.google.fragmentsviewpagerrecyclerviewads E/Ads: JS: Uncaught ReferenceError: AFMA_ReceiveMessage is not defined (:1)
+09-10 10:40:00.500 17752-17752/com.google.fragmentsviewpagerrecyclerviewads I/chromium: [INFO:CONSOLE(1)] "Uncaught ReferenceError: AFMA_ReceiveMessage is not defined", source:  (1)
+09-10 10:40:00.500 17752-17752/com.google.fragmentsviewpagerrecyclerviewads E/Ads: JS: Uncaught ReferenceError: AFMA_ReceiveMessage is not defined (:1)
+09-10 10:40:00.500 17752-17752/com.google.fragmentsviewpagerrecyclerviewads I/chromium: [INFO:CONSOLE(1)] "Uncaught ReferenceError: AFMA_ReceiveMessage is not defined", source:  (1)
+09-10 10:40:00.530 17752-17752/com.google.fragmentsviewpagerrecyclerviewads I/Choreographer: Skipped 38 frames!  The application may be doing too much work on its main thread.
+09-10 10:40:00.700 17752-17752/com.google.fragmentsviewpagerrecyclerviewads D/DynamitePackage: Instantiating com.google.android.gms.ads.ChimeraAdManagerCreatorImpl
+09-10 10:40:00.760 17752-17752/com.google.fragmentsviewpagerrecyclerviewads I/Ads: Starting ad request.
+09-10 10:40:00.840 17752-17752/com.google.fragmentsviewpagerrecyclerviewads I/Choreographer: Skipped 37 frames!  The application may be doing too much work on its main thread.
+09-10 10:40:01.020 17752-17752/com.google.fragmentsviewpagerrecyclerviewads D/DynamitePackage: Instantiating com.google.android.gms.ads.ChimeraAdManagerCreatorImpl
+09-10 10:40:01.030 17752-17752/com.google.fragmentsviewpagerrecyclerviewads I/Ads: Starting ad request.
+09-10 10:40:01.110 17752-17752/com.google.fragmentsviewpagerrecyclerviewads I/Choreographer: Skipped 42 frames!  The application may be doing too much work on its main thread.
+09-10 10:40:01.350 17752-17752/com.google.fragmentsviewpagerrecyclerviewads I/Choreographer: Skipped 40 frames!  The application may be doing too much work on its main thread.
+09-10 10:40:01.610 17752-17752/com.google.fragmentsviewpagerrecyclerviewads E/Ads: JS: Uncaught ReferenceError: AFMA_ReceiveMessage is not defined (:1)
+09-10 10:40:01.610 17752-17752/com.google.fragmentsviewpagerrecyclerviewads I/chromium: [INFO:CONSOLE(1)] "Uncaught ReferenceError: AFMA_ReceiveMessage is not defined", source:  (1)
+09-10 10:40:02.411 17752-17752/com.google.fragmentsviewpagerrecyclerviewads I/Ads: Scheduling ad refresh 60000 milliseconds from now.
+09-10 10:40:02.421 17752-17752/com.google.fragmentsviewpagerrecyclerviewads I/Ads: Ad finished loading.
+09-10 10:40:02.762 17752-17752/com.google.fragmentsviewpagerrecyclerviewads I/Ads: Scheduling ad refresh 60000 milliseconds from now.
+09-10 10:40:02.772 17752-17752/com.google.fragmentsviewpagerrecyclerviewads I/Ads: Ad finished loading.
