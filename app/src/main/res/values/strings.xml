@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FragmentsViewPagerRecyclerViewAds</string>
+    <string name="app_short_name">FVPRVA</string>
+    <string name="item1">item 1</string>
+    <string name="item2">item 2</string>
+    <string name="item3">item 3</string>
+    <string name="item4">item 4</string>
+    <string name="item5">item 5</string>
+    <string name="item6">item 6</string>
+    <string name="item7">item 7</string>
+    <string name="item8">item 8</string>
+    <string name="item9">item 9</string>
+    <string name="banner_ad_one">ca-app-pub-0/0</string>
+    <string name="banner_ad_second">ca-app-pub-0/0</string>
+</resources>
